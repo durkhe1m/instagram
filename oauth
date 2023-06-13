@@ -1,5 +1,5 @@
 https://api.instagram.com/oauth/authorize
   ?client_id=936619743392459
-  &redirect_uri=https://durkhe1m.github.io/instagram/
+  &redirect_uri=https://durkhe1m.github.io/instagram/oauth
   &scope=user_profile,user_media
   &response_type=code
